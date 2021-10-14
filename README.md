@@ -1,7 +1,3 @@
 # hello_world
 My first repository
-class HelloWrold{
-  public void main(String agrs[]){
-  System.out.println("Hello World");
-  }
-}
+Hello, everybody see that, this is my first branch.
